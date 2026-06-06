@@ -1,0 +1,16 @@
+class Roll{
+
+int rollNo;
+
+}
+
+public class Yash{
+
+public static void main(String[]args){
+
+Roll lohakare = new Roll();
+lohakare.rollNo = 112;
+System.out.println(lohakare.rollNo);
+}
+}
+ 
