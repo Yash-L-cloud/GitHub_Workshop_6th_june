@@ -1,8 +1,16 @@
-class Demo{
+class College{
+
+int rollNo;
+
+}
+
+public class Demo{
 
 public static void main(String[]args){
 
-System.out.println("Welcome to GitHub");
-
+College yash = new College();
+yash.rollNo = 112;
+System.out.println(yash.rollNo);
 }
 }
+ 
